@@ -1,0 +1,21 @@
+# PyInstaller 打包产物
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 转换输出
+*.docx
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
